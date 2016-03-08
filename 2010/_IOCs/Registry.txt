@@ -1,0 +1,13 @@
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+HKLM\Software\Sun\1
+HKLM\SOFTWARE\Microsoft\Windows
+HKLM\SYSTEM\CurrentControlSet\Services\RaS
+HKLM\SOFTWARE\Microsoft\WindowsNT\CurrentVersions\Svchost\netsvcs
+HKLM\Software\Sun\1
+HKLM\Software\Sun\IsoTp
+HKLM\Software
+HKLM\Software\Sun
+HKLM\SYSTEM\CurrentControlSet\Services
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Sun\1

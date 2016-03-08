@@ -1,0 +1,12 @@
+HKLM\SYSTEM\CurrentControlSet\Services\W32Time\Config\LastClockRate
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability
+HKLM\SYSTEM\CurrentControlSet\Services\Disk\Enum
+HKLM\SOFTWARE\Microsoft\WZCSVC\Parameters\Interfaces
+HKLM\HARDWARE\DESCRIPTION\System
+HKLM\SOFTWARE\KasperskyLab\AVP6
+HKLM\SOFTWARE\KasperskyLab
+HKLM\SOFTWARE\Microsoft\Windows
+HKLM\SOFTWARE\Microsoft\Windows
+HKLM\Security\Policy\PolSecretEncryptionKey
+HKLM\SAM\SAM\Domains\Account\F
+HKLM\Software\Microsoft\Windows\CurrentVersion\policies\Explorer\run
