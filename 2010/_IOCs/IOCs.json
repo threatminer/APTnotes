@@ -1,0 +1,657 @@
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "google.homelinux.com", "type": "Host", "page": 7, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "yahoo.blogdns.net", "type": "Host", "page": 7, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "mcsmc.org", "type": "Host", "page": 7, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "filoups.info", "type": "Host", "page": 7, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "m7been.zapto.org", "type": "Host", "page": 8, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "baltika1.servebeer.com", "type": "Host", "page": 8, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "no-ip.com", "type": "Host", "page": 11, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "blog1.servebeer.com", "type": "Host", "page": 11, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "miecros.info", "type": "Host", "page": 13, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "google.homeunix.com", "type": "Host", "page": 13, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "thcway.info", "type": "Host", "page": 17, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "mnprfix.cn", "type": "Host", "page": 17, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "micronetsys.org", "type": "Host", "page": 17, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "C:\\Documents", "type": "Filepath", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "counter.surfcounters.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "looksmart.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "maxsun.biz", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "moreverde.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "oranges88.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "smarttechnik.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "www.prma-enhance.com", "type": "Host", "page": 19, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "msconfig32.sys", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "debug.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "mqbxt.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "msinits.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "win16.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "winlogon.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "lsass.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "drweb.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "taskmgr.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "win32.exe", "type": "Filename", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", "type": "Registry", "page": 20, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "C:\\Windows\\System32", "type": "Filepath", "page": 21, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "regsvr32.exe", "type": "Filename", "page": 21, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer", "type": "Registry", "page": 21, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "ec2-79-125-21-42.eu-west-1.compute.amazonaws.com", "type": "Host", "page": 22, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "ip-173-201-21-161.ip.secureserver.net", "type": "Host", "page": 22, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "inekoncuba.inekon.co.cu", "type": "Host", "page": 22, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "voanews.ath.cx", "type": "Host", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "ymail.ath.cx", "type": "Host", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "273a51aada271e5a4a91321a3126c767", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "02677a0770268a20f7ef0d9bd7e8eef1", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "9803c22252a028b050f6257e7a67d4b7", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "69ef60094052321d91c0094efd832b92", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "6e245522d710ca1564e6873a3a0e82bd", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "0c091b4f6b23b450ccc3d37ccff6cdd6", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "994a379ff057724248d8435c9be45c1f", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "b5b7146b07b0a0804b36b8056f316722", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "65510cda14bcefd2419eb1262a6d6829", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "a4a63756c39e345e31f1e8e698ea03a6", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "2794cacb3f177f340dee0aa2a71bdf1c", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "2f6c8d68392839cb4615c455cd25fc9c", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "20ddc972f71c8e584ed2c43254eb811b", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "1326879b25dd0d7452d7a4b674165a5a", "type": "MD5", "page": 23, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "01b9c2c916e6d9a82bfc5912348a231f", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "0b4872a4f20760739b0007c6b2dc08bd", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "253f59417c6c784d6c0e5565736d1815", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "325566e0871ac3d4fccfbb0b4efd8d07", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "38ee6476ffe7473707520ef7f5ed5ecb", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "62686fd8a1c24abfb7a621e5629ce4ab", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "73a88fa854e766d5d3e712db8291bcc8", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "863a096685354b2730ad9dfd7e91e942", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "b8a177d99854ccc71e94a4a6645e85e7", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "d112a2ed6c675158295acb4824b481d8", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "feb88ea662de113dcafbe45bdece82fc", "type": "MD5", "page": 24, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "http://www.washingtonpost.com/wp-dyn/content/article/2010/01/13/AR2010011300359.html", "type": "URL", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "how_can_u_tell.pdf", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "WP_Malware_Samples_Botnet_Detection.pdf", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "WP_SerialVariantEvasionTactics.pdf", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "WP_Botnet_Communications_Primer.pdf", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "WP_Botnet_vs_Malware.pdf", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_Botnet_Command_Structure.pdf", "match": "AR2010011300359.html", "type": "Filename", "page": 30, "file": "Aurora_Botnet_Command_Structure.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "3322.org", "type": "Host", "page": 2, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "http://demo1.ftpaccess.cc/demo/ad.jpg", "type": "URL", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "aaa.gif", "type": "Filename", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "a.exe", "type": "Filename", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "b.exe", "type": "Filename", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "ad.jpg", "type": "Filename", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "Kernel32.dll", "type": "Filename", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "demo1.ftpaccess.cc", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "sl1.homelinux.org", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "360.homeunix.com", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "ftp2.homeunix.com", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "update.ourhobby.com", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "blog1.servebeer.com", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "www.trustedsource.org", "type": "Host", "page": 4, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "rasmon.dll", "type": "Filename", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "user32.dll", "type": "Filename", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "svchost.exe", "type": "Filename", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "homeunix.com", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "homelinux.com", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "ourhobby.com", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "2288.org", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "8866.org", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "ath.cx", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "33iqst.com", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "dyndns.org", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "linode.com", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "ftpaccess.cc", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "filoups.info", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "blogsite.org", "type": "Host", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "HKLM\\Software\\Sun\\1", "type": "Registry", "page": 5, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "securmon.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "AppMgmt.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "A0029670.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "msconfig32.sys", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "VedioDriver.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "acelpvc.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "wuauclt.exe", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "jucheck.exe", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "AdobeUpdateManager.exe", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "zf32.dll", "type": "Filename", "page": 6, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "AuroraInnoculation.exe", "type": "Filename", "page": 8, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "iexplore.exe", "type": "Filename", "page": 9, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "kernel32.dll", "type": "Filename", "page": 9, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "http://www.thetechherald.com/article.php/201004/5151/Was-Operation-Aurora-nothing-more", "type": "URL", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "http://www.fjbmcu.com/chengxu/crcsuan.htm", "type": "URL", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "http://www.avertlabs.com/research/blog/index.php/2010/01/18/an-insight-into-the-aurora", "type": "URL", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "crcsuan.htm", "type": "Filename", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "www.verdasys.com", "type": "Host", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "verdasys.com", "type": "Host", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "www.thetechherald.com", "type": "Host", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "www.fjbmcu.com", "type": "Host", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "www.avertlabs.com", "type": "Host", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Aurora_HBGARY_DRAFT.pdf", "match": "jwarren@verdasys.com", "type": "Email", "page": 10, "file": "Aurora_HBGARY_DRAFT.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "Roarur.dll", "type": "Filename", "page": 1, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://vil.nai.com/vil/content/v_253210.htm", "type": "URL", "page": 3, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://vil.nai.com/vil/content/v_253415.htm", "type": "URL", "page": 3, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "v_253210.htm", "type": "Filename", "page": 3, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "v_253415.htm", "type": "Filename", "page": 3, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "vil.nai.com", "type": "Host", "page": 3, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://vil.nai.com/vil/content/v_253416.htm", "type": "URL", "page": 4, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "acelpvc.dll", "type": "Filename", "page": 4, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "VedioDriver.dll", "type": "Filename", "page": 4, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "v_253416.htm", "type": "Filename", "page": 4, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "hxxp://demo[remove].jpg", "type": "URL", "page": 5, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "Rasmon.dll", "type": "Filename", "page": 5, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "DFS.bat", "type": "Filename", "page": 5, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "svchost.exe", "type": "Filename", "page": 5, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "rasmon.dll", "type": "Filename", "page": 5, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "securmon.dll", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "a.exe", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "b.exe", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "AppMgmt.dll", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "A0029670.dll", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "msconfig32.sys", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "wuauclt.exe", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "jucheck.exe", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "AdobeUpdateManager.exe", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "zf32.dll", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "operation_aurora.html", "type": "Filename", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "E3798C71D25816611A4CAB031AE3C27A", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "0F9C5408335833E72FE73E6166B5A01B", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "CD36A3071A315C3BE6AC3366D80BB59C", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "9F880AC607CBD7CDFFFA609C5883C708", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "6A89FBE7B0D526E3D97B0DA8418BF851", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "3A33013A47C5DD8D1B92A4CFDCDA3765", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "7A62295F70642FEDF0D5A5637FEB7986", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "467EEF090DEB3517F05A48310FCFD4EE", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "4A47404FC21FFF4A1BC492F9CD23139C", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "69BAF3C6D3A8D41B789526BA72C79C2D", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "79ABBA920201031147566F5418E45F34", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "9A7FCEE7FF6035B141390204613209DA", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "EB4ECA9943DA94E09D22134EA20DC602", "type": "MD5", "page": 6, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://download.nai.com/products/mcafee-avert/aurora_stinger.exe", "type": "URL", "page": 7, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "aurora_stinger.exe", "type": "Filename", "page": 7, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "download.nai.com", "type": "Host", "page": 7, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "CVE-2010-0249", "type": "CVE", "page": 9, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "69.164.192.4", "type": "IP", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "360.homeunix.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "alt1.homelinux.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "amt1.homelinux.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "aop1.homelinux.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "app1.homelinux.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "blogspot.blogsite.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "filoups.info", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "ftp2.homeunix.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "ftpaccess.cc", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "google.homeunix.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "members.linode.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "sl1.homelinux.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "tyuqwer.dyndns.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "update.ourhobby.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "voanews.ath.cx", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "webswan.33iqst.com", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "yahoo.8866.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "ymail.ath.cx", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "yahooo.8866.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "connectproxy.3322.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "csport.2288.org", "type": "Host", "page": 10, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://www.avertlabs.com/research/blog", "type": "URL", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://podcasts.mcafee.com/audioparasitics/AudioParasitics-Episode80-01-2010.mp3", "type": "URL", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "http://community.mcafee.com/groups/operation-aurora", "type": "URL", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "how_can_u_tell.pdf", "type": "Filename", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "aurora_enterprise.html", "type": "Filename", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//Combating Threats - Operation Aurora.pdf", "match": "www.avertlabs.com", "type": "Host", "page": 11, "file": "Combating Threats - Operation Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "Rasmon.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "a.exe", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "b.exe", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "AppMgmt.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "A0029670.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "msconfig32.sys", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "VedioDriver.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "acelpvc.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "Roarur.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "securmon.dll", "type": "Filename", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "0F9C5408335833E72FE73E6166B5A01B", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "CD36A3071A315C3BE6AC3366D80BB59C", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "9F880AC607CBD7CDFFFA609C5883C708", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "6A89FBE7B0D526E3D97B0DA8418BF851", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "3A33013A47C5DD8D1B92A4CFDCDA3765", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "7A62295F70642FEDF0D5A5637FEB7986", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "467EEF090DEB3517F05A48310FCFD4EE", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "4A47404FC21FFF4A1BC492F9CD23139C", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//how_can_u_tell_Aurora.pdf", "match": "E3798C71D25816611A4CAB031AE3C27A", "type": "MD5", "page": 1, "file": "how_can_u_tell_Aurora.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "CVE-2010-0249", "type": "CVE", "page": 1, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "calc.exe", "type": "Filename", "page": 7, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "a.exe", "type": "Filename", "page": 7, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "ftpaccess.cc", "type": "Host", "page": 7, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "b.exe", "type": "Filename", "page": 8, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "Rasmon.dll", "type": "Filename", "page": 9, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "Svchost.exe", "type": "Filename", "page": 9, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "svchost.exe", "type": "Filename", "page": 9, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\SOFTWARE\\Microsoft\\Windows", "type": "Registry", "page": 9, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "DFS.bat", "type": "Filename", "page": 10, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\SYSTEM\\CurrentControlSet\\Services\\RaS", "type": "Registry", "page": 10, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\SOFTWARE\\Microsoft\\WindowsNT\\CurrentVersions\\Svchost\\netsvcs", "type": "Registry", "page": 10, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\Software\\Sun\\1", "type": "Registry", "page": 11, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "111.222.123.111", "type": "IP", "page": 12, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "168.95.1.1", "type": "IP", "page": 12, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "acelpvc.dll", "type": "Filename", "page": 21, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "VedioDriver.dll", "type": "Filename", "page": 21, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "mdm.exe", "type": "Filename", "page": 22, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\Software\\Sun\\IsoTp", "type": "Registry", "page": 23, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\Software", "type": "Registry", "page": 23, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\Software\\Sun", "type": "Registry", "page": 23, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.cert.org/tech_tips/securing_browser", "type": "URL", "page": 29, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.microsoft.com/protect/yourself/password/create.mspx", "type": "URL", "page": 29, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.cert.org", "type": "Host", "page": 29, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://community.ca.com/blogs/securityadvisor/archive/2009/02/24/attackers-love-zero-day.asp", "type": "URL", "page": 30, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "community.ca.com", "type": "Host", "page": 30, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "ca.com", "type": "Host", "page": 30, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "virus@ca.com", "type": "Email", "page": 30, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "C:\\Documents", "type": "Filepath", "page": 31, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "kernel32.dll", "type": "Filename", "page": 31, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKLM\\SYSTEM\\CurrentControlSet\\Services", "type": "Registry", "page": 31, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "rundll32.exe", "type": "Filename", "page": 32, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "cmd.exe", "type": "Filename", "page": 32, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", "type": "Registry", "page": 32, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "user32.dll", "type": "Filename", "page": 35, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "Acelpvc.dll", "type": "Filename", "page": 35, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.security.nl/files/aurorafiles.txt", "type": "URL", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "69.164.192.4", "type": "IP", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "360.homeunix.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.ccmp1.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "blog1.servebeer.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "sl1.homelinux.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "update.ourhobby.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "ftp2.homeunix.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.security.nl", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "alt1.homelinux.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "amt1.homelinux.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "aop1.homelinux.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "app1.homelinux.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "blogspot.blogsite.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "filoups.info", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "google.homeunix.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "members.linode.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "tyuqwer.dyndns.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "voanews.ath.cx", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "webswan.33iqst.com", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "yahoo.8866.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "ymail.ath.cx", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "yahooo.8866.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "connectproxy.3322.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "csport.2288.org", "type": "Host", "page": 36, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://googleblog.blogspot.com/2010/01/new-approach-to-china.html", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.state.gov/secretary/rm/2010/01/135519.htm", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.dni.gov/testimonies/20100202_testimony.pdf", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.scribd.com/doc/13731776/Tracking-GhostNet-Investigating-a-Cyber-Espionage-Network", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://oreilly.com/catalog/9780596802165", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "http://www.forensicfocus.com/downloads/windows-registry-quick-reference.pdf", "type": "URL", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "new-approach-to-china.html", "type": "Filename", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "135519.htm", "type": "Filename", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "20100202_testimony.pdf", "type": "Filename", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "windows-registry-quick-reference.pdf", "type": "Filename", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "googleblog.blogspot.com", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.state.gov", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.dni.gov", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.scribd.com", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "oreilly.com", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//in-depth_analysis_of_hydraq_final_231538.pdf", "match": "www.forensicfocus.com", "type": "Host", "page": 37, "file": "in-depth_analysis_of_hydraq_final_231538.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://ilta.ebiz.uapps.net/ProductFiles/productfiles/782804/2011siems.pptx", "type": "URL", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "chap6.pdf", "type": "Filename", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "GoogleTray.exe", "type": "Filename", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "2011siems.pptx", "type": "Filename", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "mail.hfmforum.com", "type": "Host", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "ilta.ebiz.uapps.net", "type": "Host", "page": 3, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://www.malware-\u00ad\u2010control.com/statics-\u00ad\u2010pages/3459bc37967480dee405a5ac678b942d.php", "type": "URL", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "control.com", "type": "Host", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6a237ffe0f7d84ffd9652662a2638a9b5212636b414ce15ea2e39204d2a24e7f", "type": "SHA256", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "75d3c3875744196cedff55d179bc62412adeba5e769fbfc85b2b891ff32b4f9f", "type": "SHA256", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "3459bc37967480dee405a5ac678b942d", "type": "MD5", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6631815d4ab2a586021c24e02e5cc451", "type": "MD5", "page": 4, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://vms.drweb.com/virus/?i=225137", "type": "URL", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://anubis.iseclab.org/?action=result&task_id=14495366b24a64d242d1946aa1e3a88be&format=html", "type": "URL", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "wuauclt.exe", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "_FOREIGN_EXCHANGE_RATES.pdf", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "setup.exe", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "msupdater.exe", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "02.html", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "interest.html", "type": "Filename", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "vms.drweb.com", "type": "Host", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "anubis.iseclab.org", "type": "Host", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "daac83fc4af5c53068c4e5a29dadfdc5200e3b3fc2b491eebe0a4bc19ec9e3f2", "type": "SHA256", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "ecefcd2f2b862e987ea4b6b7d475c924d9662ad955096872a2c5b822901c63b3", "type": "SHA256", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "3459BC37967480DEE405A5AC678B942D", "type": "MD5", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6631815D4AB2A586021C24E02E5CC451", "type": "MD5", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "95D42D365489A6E5EBDF62565C5C8AA2", "type": "MD5", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "374075CE8B6E8F0CD1F90009FD5A703B", "type": "MD5", "page": 5, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://www.cyberesi.com/2011/03/17/msupdate-\u00ad\u2010exe-\u00ad\u2010favorites-\u00ad\u2010dat-\u00ad\u2010analysis", "type": "URL", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://www.securiteam.com/securityreviews/6Z00H20BQS.html", "type": "URL", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "140.112.19.195", "type": "IP", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "msupdate.exe", "type": "Filename", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "svchost.exe", "type": "Filename", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "report.html", "type": "Filename", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6Z00H20BQS.html", "type": "Filename", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "www.cyberesi.com", "type": "Host", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "www.securiteam.com", "type": "Host", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "043935374ce39637a4816d0a484d30bed1d3054bbe89625fbc22f83ef4cb3e04", "type": "SHA256", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "374075ce8b6e8f0cd1f90009fd5a703b", "type": "MD5", "page": 6, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "d8a976979d4eeaf7485249c49d4a31824638a49dac308c5114c113b4a3eed9c9", "type": "SHA256", "page": 7, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "http://www.bloomberg.com/news/2011-\u00ad\u201002-\u00ad\u201024/exxon-\u00ad\u2010shell-\u00ad\u2010bp-\u00ad\u2010said-\u00ad\u2010to-\u00ad\u2010have-\u00ad\u2010been-\u00ad\u2010hacked-\u00ad\u2010through-\u00ad\u2010chinese-\u00ad\u2010internet-\u00ad\u2010servers.html", "type": "URL", "page": 8, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "ISSNIP_2010.pdf", "type": "Filename", "page": 8, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "servers.html", "type": "Filename", "page": 8, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "3D966CD90D320EA4A319452D1CCB11AA", "type": "MD5", "page": 8, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "08039422c11ee405af02558704f19c8c53e82749493386a226243ac0f85de20c", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "da3e95eb33c33908ab35b269802ba35fe015e0ad3f0ec7481bcca8b5b96477ca", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "fe0e58b5cad9b1dde19ad87f2470c14879d148c0d271d54e00bb94449a8980fd", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "d076b318db751cd43e303d26dcaad2d0eab2779185a5facb9aee3754219a322f", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "5f14bf0b5838f85edcb1bc32a198ec09cf4d73980e73a0783d649e00c91d6771", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "735fd8ce66e6f0e412f18242d37c12fb38f26f471051eac2f0fe2df89d0e4966", "type": "SHA256", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "B7424AA1C92107E03DBA8915CEB1FE4D", "type": "MD5", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "3a0fc856f343b730ee58c00bab09f9e5", "type": "MD5", "page": 9, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "COMSWARE_2009.1.pdf", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "IEUpd.exe", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "WMupdate.exe", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "fired.pdf", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "2009_IEEE_Aerospace_Conference_1.pdf", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "Bomber_kills_33_at_Iraq_peace_conference.pdf", "type": "Filename", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "www.issnip.org", "type": "Host", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "FD5DFFEBD39E9ACA4F79107B6889699D", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "95AFBECB0BDDE89254DBE07A42685B24", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6FF3C8495873AEC4390250EC1ECAA0B1", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "2EFBF514FBF58E78C259CC87A668BC35", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "AEDCE18F64EB988F342663EC2C01D017", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "BDDD2042F5024D2AFC6AA50920E27897", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "EA12A0DBA22B8B2D2D5662437BED8169", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "7F37F7CD9B0C1CE6574FF5C385FCF26F", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "2F71666B76EC0E51A40EF5DF3170604A", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "5622E46F27B8BD7665218E26B024E74D", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "D69BB7935DB5FC15542B98845CF83B89", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "A2B6C71A153E61EAA1FEA0F2A3A0232B", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "9C738176C74B7392DD22009736AFC49F", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "1ABC034E85704A0699D598B16C16A37E", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "6AD5D9C546AC603E18FC109025E2F5B7", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "9687E53495898232949DBCD15556B619", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "7B470C530794342632F5025C1B948BB0", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "1006e295156b354d9ec4b6d5b6b0ba65", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "D78CBD630A1937233B3E4217B19FF5CA", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "9AA8DD1A765C44B82654581977C7F2FA", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "BECDA5D5A1C3199A99018A57E43BA2C7", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "08EB27A6D8F0260D6853BC5A3F5CAA73", "type": "MD5", "page": 10, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "msupate.exe", "type": "Filename", "page": 11, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "4EF704239FA63D1C1DFCF2EA2DA0D711", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "5E3EACA3806769836C3AD9D46A209644", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "92DBDB7E240E7D7C42B4793380782735", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "3A0FC856F343B730EE58C00BAB09F9E5", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "7C3C964D7F164F2CC277B41541732546", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "21816D6934F608E0E3F76AA43831D959", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "53547213038C093EB427974FA0FB4F65", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//MSUpdaterTrojanWhitepaper.pdf", "match": "0A229293FD0639C722FD7ABD1D1A9C93", "type": "MD5", "page": 13, "file": "MSUpdaterTrojanWhitepaper.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://shadows-in-the-cloud.net", "type": "URL", "page": 1, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "shadows-in-the-cloud.net", "type": "Host", "page": 1, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "infowar-monitor.net", "type": "Host", "page": 4, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "blog.com", "type": "Host", "page": 5, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "119.84.4.43", "type": "IP", "page": 15, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "jdusnemsaz.com", "type": "Host", "page": 15, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "221.5.250.98", "type": "IP", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "current.doc", "type": "Filename", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "2009.doc", "type": "Filename", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "lookbytheway.net", "type": "Host", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.assam2008.net", "type": "Host", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "c2etejs.com", "type": "Host", "page": 20, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.milw0rm.com", "type": "Host", "page": 22, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://groups.google.com/group/estolide/feed/rss_v2_0_msgs.xml", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.idefesvn.com/test/ieupdate.php", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://groups.google.com/group/tagyalten/feed/rss_v2_0_msgs.xml", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.c2etejs.com/kk/all.php", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://hiok125.blog.com", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.erneex.com/boboshell/all.php", "type": "URL", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "Sino-India_Border.ppt", "type": "Filename", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "Schedule2010_of_HHDL.pdf", "type": "Filename", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "China_should_break_up_India.doc", "type": "Filename", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.idefesvn.com", "type": "Host", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.c2etejs.com", "type": "Host", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "hiok125.blog.com", "type": "Host", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.erneex.com", "type": "Host", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "CVE-2009-0927", "type": "CVE", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "c35b3ea71370cb5bfe2b523c17705ecb", "type": "MD5", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "dfc76b1f94ec13cbd8ae3b3371f23841", "type": "MD5", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "17a26441eb2be5efb8344e53cbd7d499", "type": "MD5", "page": 24, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "setup.exe", "type": "Filename", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "docBack.gif", "type": "Filename", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "nscthttp.gif", "type": "Filename", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "top.gif", "type": "Filename", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "tor.gif", "type": "Filename", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.indexindian.com", "type": "Host", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "yahoo.in", "type": "Host", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "cxingpeng.byethost9.com", "type": "Host", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.torproject.org", "type": "Host", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "sonamtenphel@yahoo.com", "type": "Email", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "zhengwai@yahoo.com", "type": "Email", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "wwwfoxperter@yahoo.com", "type": "Email", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "swwwfox@yahoo.in", "type": "Email", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "7e2e37c78bc594342e498d6299c19158", "type": "MD5", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "abef3f0396688bfca790f8bbedac3e0d", "type": "MD5", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "2ca46bcdfda08adc94ab41d3ed049ab6", "type": "MD5", "page": 25, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.indexnews.org", "type": "Host", "page": 26, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "9f0b3d0672425081cb7a988691535cbf", "type": "MD5", "page": 26, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "co.tv", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "net.ru", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "byethost9.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "6te.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "justfree.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "sqweebs.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "yourfreehosting.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "kilu.de", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "5gighost.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "hostaim.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "5webs.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "55fast.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "surge8.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "changemore.hostaim.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "choesang.5gighost.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "freegate.kilu.de", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "freesp.6te.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "hardso.yourfreehosting.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "scjoinsign.sqweebs.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "tshkung01.justfree.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.99fm.co.tv", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.j5yr.co.tv", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "zcagua.6te.net", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "lobsang.net.ru", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "freesp.55fast.com", "type": "Host", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "ctliliwoy5@yahoo.com", "type": "Email", "page": 28, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "210.51.7.155", "type": "IP", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "61.188.87.27", "type": "IP", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "61.188.87.79", "type": "IP", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "60.160.182.113", "type": "IP", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "iloveusy.justfree.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "zenob.surge8.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "bigmouse.5webs.net", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "erneex.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "idefesvn.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "peose.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "indexnews.org", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "microsoftnews.net", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "tibetcommunication.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "intoplink.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "indexindian.com", "type": "Host", "page": 29, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "assam2008.net", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "msnxy.net", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "sysroots.net", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "womanld.com", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "womannana.com", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "macfeeresponse.com", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "macfeeresponse.org", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "ggsddup.com", "type": "Host", "page": 30, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.msnxy.net", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.sysroots.net", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.womanld.com", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.womannana.com", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.lookbyturns.com", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.macfeeresponse.com", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.macfeeresponse.org", "type": "Host", "page": 34, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "railnet.gov.in", "type": "Host", "page": 35, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "reserved123.petroitg.com", "type": "Host", "page": 35, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "losttemp33@hotmail.com", "type": "Email", "page": 43, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://taosecurity.blogspot.com/2010/01/attribution-using-20-characteristics.html", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.8689&rep=rep1&type=pdf", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.drdo.org/pub/techfocus/2009/feb09.pdf", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.deloitte.com/assets/Dcom-UnitedStates/Local%20Assets/Documents/AERS/us_aers_Deloitte%20Cyber%20Crime%20", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://frontierindia.net/artilery-combat-command-and-control-system-shakti-dedication-to-indian-army", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.thedarkvisitor.com/tag/lost33", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.thedarkvisitor.com/2009/04/hunting-the-ghostnet-hacker", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.thedarkvisitor.com/2009/04/hunting-the-ghostnet-hacker(accessed", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.lulu.com/items/volume_62/2048000/2048958/4/print/2048958.pdf", "type": "URL", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "attribution-using-20-characteristics.html", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "cooke.html", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "feb09.pdf", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "20Jan252010.pdf", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "00001903.html", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "2048958.pdf", "type": "Filename", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "taosecurity.blogspot.com", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "citeseerx.ist.psu.edu", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.drdo.org", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.deloitte.com", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "frontierindia.net", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.thedarkvisitor.com", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.lulu.com", "type": "Host", "page": 51, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.darkreading.com/security/management/showArticle.jhtml?articleID=211201241", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.india-defence.com/reports-3171", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.indianembassy.org/inews/December98/9.htm", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://india.gov.in/overseas.php", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://portal.acm.org/citation.cfm?id=1290958.1290968&coll=GUIDE&dl=GUIDE&CFID=74760848&CFTOKEN=96817982", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.atimes.com/atimes/China/KK18Ad01.html", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.nytimes.com/2010/02/19/technology/19china.html", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://asert.arbornetworks.com/2009/08/twitter-based-botnet-command-channel", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://asert.arbornetworks.com/2009/11/malicious-google-appengine-used-as-a-cnc", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://portal.acm.org/citation.cfm?id=1067721.1067728&coll=ACM&dl=ACM&CFID=84425230&CFTOKEN=14042216", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.uscc.gov/.../NorthropGrumman_PRC_Cyber_Paper_FINAL_Approved%20Report_16Oct2009.pdf", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.priv.gc.ca/information/pub/cc_201003_e.cfm", "type": "URL", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "9.htm", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "KK18Ad01.html", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "19china.html", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "20Report_16Oct2009.pdf", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "bh-us-03-parker.pdf", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "ramachandran.pdf", "type": "Filename", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.india-defence.com", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.indianembassy.org", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "india.gov.in", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.atimes.com", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.uscc.gov", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.priv.gc.ca", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.blackhat.com", "type": "Host", "page": 52, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.israelnationalnews.com/News/News.aspx/135406", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.cisse2009.com/colloquia/cisse13/proceedings/PDFs/Papers/S03P02.pdf", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.spslandforces.net/news.asp?news=16", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.cs.ucsb.edu/%7Eseclab/projects/torpig/torpig.pdf", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.northlines.in/newsdet.aspx?q=28365", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.messagelabs.com/mlireport/MLI_2010_03_Mar_FINAL-EN.pdf", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.computerworld.com/s/article/9173965/FBI_lists_Top_10_posts_in_cybercriminal_operations", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://blog.unmaskparasites.com/2009/11/11/hackers-use-twitter-api-to-trigger-malicious-scripts", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://cs.berkeley.edu/~mavam/cw/cs294-28-paper.pdf", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.eweek.com/c/a/Security/RBN-Gang-Moves-Sets-Up-Shop-in-China", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.infowar-monitor.net/2010/03/the-kneber-botnet-spear-phishing-attacks-and-crimeware", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.wired.com/threatlevel/2009/03/spy-system-focu", "type": "URL", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "rajab.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "S03P02.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "torpig.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "MLI_2010_03_Mar_FINAL-EN.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "cs294-28-paper.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "SANSFIRE2008-Is_Troy_Burning_Vanhorenbeeck.pdf", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "diary.html", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "2189.en.htm", "type": "Filename", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.israelnationalnews.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.saikorian.org", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.cisse2009.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.spslandforces.net", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.cs.ucsb.edu", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.northlines.in", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.messagelabs.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.computerworld.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "blog.unmaskparasites.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "cs.berkeley.edu", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.eweek.com", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.infowar-monitor.net", "type": "Host", "page": 53, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.wired.com/politics/security/news/2007/09/embassy_hack", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.wired.com/threatlevel/2007/11/swedish-researc/#ixzz0ex7BEUYk", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.theaeonsolution.com/security/?p=231", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.theaeonsolution.com/security/?p=251", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA509167&amp;Location=U2&amp;doc=GetTRDoc.pdf", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://portal.acm.org/citation.cfm?id=1558607.1558675", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://googleonlinesecurity.blogspot.com/2010/03/chilling-effects-of-malware.html", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.computer.org/portal/web/csdl/doi/10.1109/CLOUD.2009.60", "type": "URL", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "GetTRDoc.pdf", "type": "Filename", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "smashing-the-ozdok.html", "type": "Filename", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "chilling-effects-of-malware.html", "type": "Filename", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "2189.en.html", "type": "Filename", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "EECS-2009-28.pdf", "type": "Filename", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.theaeonsolution.com", "type": "Host", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.dtic.mil", "type": "Host", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.eecs.berkeley.edu", "type": "Host", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.computer.org", "type": "Host", "page": 54, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://en.cnki.com.cn/Article_en/CJFDTOTAL-HBFX200901009.htm", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.nationaljournal.com/njmagazine/cs_20080531_6948.php", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.stormingmedia.us/81/8168/A816884.html", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.dodccrp.org/files/Moffat_Complexity.pdf", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.rand.org/pubs/technical_reports/TR416", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://eprints.qut.edu.au/14346", "type": "URL", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "CJFDTOTAL-HBFX200901009.htm", "type": "Filename", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "A816884.html", "type": "Filename", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "Moffat_Complexity.pdf", "type": "Filename", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "en.cnki.com.cn", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.nationaljournal.com", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.stormingmedia.us", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.dodccrp.org", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.rand.org", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "eprints.qut.edu.au", "type": "Host", "page": 55, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://www.web.ca/~robrien/papers/arfinal.html", "type": "URL", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "http://chinaperspectives.revues.org/document4836.html", "type": "URL", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "arfinal.html", "type": "Filename", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "document4836.html", "type": "Filename", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "www.web.ca", "type": "Host", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//shadows-in-the-cloud.pdf", "match": "chinaperspectives.revues.org", "type": "Host", "page": 56, "file": "shadows-in-the-cloud.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "3322.org", "type": "Host", "page": 2, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "aaa.gif", "type": "Filename", "page": 3, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "http://demo1.ftpaccess.cc", "type": "URL", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "a.exe", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "b.exe", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "ad.jpg", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "Kernel32.dll", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "user32.dll", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "svchost.exe", "type": "Filename", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "demo1.ftpaccess.cc", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "sl1.homelinux.org", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "360.homeunix.com", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "ftp2.homeunix.com", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "update.ourhobby.com", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "blog1.servebeer.com", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "ftpaccess.cc", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "www.trustedsource.org", "type": "Host", "page": 4, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "securmon.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "AppMgmt.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "A0029670.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "g32.sys", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "VedioDriver.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "acelpvc.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "wuauclt.exe", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "jucheck.exe", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "AdobeUpdateManager.exe", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "zf32.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "rasmon.dll", "type": "Filename", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "homeunix.com", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "homelinux.com", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "ourhobby.com", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "2288.org", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "8866.org", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "ath.cx", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "33iqst.com", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "dyndns.org", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "linode.com", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "loups.info", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "blogsite.org", "type": "Host", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "HKLM\\Software\\Sun\\1", "type": "Registry", "page": 6, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "AuroraInnoculation.exe", "type": "Filename", "page": 8, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "http://www.thetechherald.com/article.php/201004", "type": "URL", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "http://www.fjbmcu.com/chengxu/crcsuan.htm", "type": "URL", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "http://www.avertlabs.com/research/blog/index.php/2010/01/18/an", "type": "URL", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "crcsuan.htm", "type": "Filename", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "www.thetechherald.com", "type": "Host", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "www.fjbmcu.com", "type": "Host", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "www.avertlabs.com", "type": "Host", "page": 9, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "info@hbgary.com", "type": "Email", "page": 10, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}
+{"path": ".//WhitePaper HBGary Threat Report, Operation Aurora.pdf", "match": "support@hbgary.com", "type": "Email", "page": 10, "file": "WhitePaper HBGary Threat Report, Operation Aurora.pdf"}

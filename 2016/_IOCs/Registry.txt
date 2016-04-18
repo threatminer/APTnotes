@@ -1,0 +1,17 @@
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell
+HKLM\SYSTEM\CurrentControlSet\Services\AppMgmt\Parameters\ServiceDll
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\Syncmgr
+HKLM\System\CurrentControlSet
+HKCU\Software\dnimtsoleht\StubPath
+HKCU\Software\snimtsOleht\StubPath
+HKCU\Software\Backtsaleht\StubPath
+HKLM\SOFTWARE\Microsoft\Active
+HKCU\Software\bkfouerioyou
+HKCU\SOFTWARE\AdobeSoft
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Internet
+HKCU\SOFTWARE\Microsoft\Windows
+HKLM\Software
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\Eupdate
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\update
+HKLM\Software\Microsoft\Windows

@@ -1,0 +1,5 @@
+HKLM\SOFTWARE\SIEMENS\STEP7
+HKLM\SOFTWARE\SIEMENS\WinCC\Setup
+HKLM\system
+HKLM\Software\RAT
+HKLM\SYSTEM\CurrentControlSet\Services\WmdmPmSp\Parameters
